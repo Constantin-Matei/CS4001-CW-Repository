@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MP3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MP3\ here.\r\n\ This\ class\ has\ one\ attribute\:\ memory.\ MP3.java\ add\ MP3\ player\ devices\ into\ ArrayList\ of\ Gadget\ and\ from\ GUI\ download\ some\ songs\ or\ you\ can\ increase\ the\ memory\ deleting\ some\ music.\ MP3.java\ is\ a\ child\ class\ of\ Gadget.java\r\n\ @author\ (Constantin\ Matei)\r\n\ @version\ (1.0\ April\ 2024)\r\n
+comment1.params=model\ price\ weight\ size\ memory
+comment1.target=MP3(java.lang.String,\ double,\ int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getAvailableMemory()
+comment3.params=availableMemory
+comment3.target=void\ setAvailableMemory(double)
+comment4.params=musicSize
+comment4.target=void\ downloadMusic(double)
+comment5.params=musicSize
+comment5.target=void\ deleteMusic(double)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
